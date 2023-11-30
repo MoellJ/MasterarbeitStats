@@ -1,94 +1,94 @@
-"Fixing used sources grep" , 1687530126 , Jannik Moell , 8 , 258 , 0 , 0
-"Merge branch 'main' of https://github.com/MoellJ/Masterarbeit" , 1687537767 , Jannik Moell , 8 , 258 , 0 , 0
-"Added some sections" , 1687942939 , Jannik Moell , 12 , 244 , 0 , 0
-"Fixed acronyms, hyperlinks and sources" , 1687955732 , Jannik Moell , 13 , 271 , 4 , 1
-"Transferred sources from notes document" , 1687959456 , Jannik Moell , 13 , 271 , 23 , 1
-"Added more sources to literatur.bib" , 1687961612 , Jannik Moell , 13 , 271 , 28 , 1
-"Using SSH key for pushing" , 1688114678 , Jannik Moell , 13 , 271 , 28 , 1
-"Added advisors and link to document statistics" , 1688115401 , Jannik Moell , 13 , 271 , 28 , 1
-"Some boilerplate, requirements and related works (rudimentary)" , 1689087739 , Jannik Moell , 15 , 955 , 30 , 4
-"Started: CandidateDBs: InfluxDB" , 1689176553 , Jannik Moell , 16 , 1295 , 34 , 8
-"CandidateDBs: TimescaleDB" , 1689326568 , Jannik Moell , 17 , 1471 , 39 , 13
-"Restructuring" , 1689337381 , Jannik Moell , 18 , 1471 , 39 , 13
-"Some ClickHouse and TSBS" , 1689688933 , Jannik Moell , 19 , 1708 , 44 , 18
-"Mini: TS-Benchmark & IoTAbench" , 1689782290 , Jannik Moell , 19 , 1870 , 44 , 19
-"Added notes folder" , 1690711612 , Jannik Moell , 19 , 1870 , 44 , 19
-"Looking for realistic queries" , 1690725621 , Jannik Möll , 19 , 1870 , 44 , 19
-"Minor text for TSBS" , 1691077620 , Jannik Moell , 20 , 2042 , 45 , 19
-"Some QuestDB introduction and Benchmark selection" , 1691154869 , Jannik Möll , 23 , 2510 , 47 , 21
-"IoT-Benckmark; Test Scenario and minor edits" , 1691249163 , Jannik Möll , 25 , 3180 , 50 , 26
-"Restructuring; Requirement analysis; Existing benchmarks" , 1691508172 , Jannik Möll , 25 , 3529 , 50 , 26
-"Update database_sources.md" , 1691525543 , Jannik Möll , 25 , 3529 , 50 , 26
-"Meeting 09.08." , 1691656299 , Jannik Moell , 25 , 3529 , 50 , 26
-"Finished: Choosing a Benchmark" , 1691760207 , Jannik Möll , 25 , 3637 , 52 , 28
-"Benchmark Selection?" , 1692351719 , Jannik Möll , 25 , 3717 , 52 , 28
-"Start: Enhancing TSBS" , 1693215994 , Jannik Möll , 26 , 3844 , 52 , 28
-"Enhancing TSBS: Mixed workload" , 1693229502 , Jannik Moell , 27 , 4178 , 52 , 29
-"Start: SmartBench" , 1693292308 , Jannik Moell , 27 , 4224 , 53 , 30
-"Ehancing TSBS: Mixed Workload" , 1693310389 , Jannik Möll , 28 , 4715 , 53 , 30
-"Rough: SmartBench" , 1693411061 , Jannik Möll , 28 , 4814 , 53 , 30
-"Mixed Workload: Safety periods" , 1693499972 , Jannik Möll , 29 , 5124 , 53 , 30
-"Some notes" , 1693560342 , Jannik Möll , 29 , 5124 , 53 , 30
-"Updated notes" , 1694069820 , Jannik Möll , 29 , 5124 , 53 , 30
-"Some notes" , 1695111479 , Jannik Möll , 29 , 5124 , 53 , 30
-"Added a source and minor tex change" , 1695213995 , Jannik Möll , 29 , 5145 , 54 , 30
-"Added notes" , 1695219010 , Jannik Möll , 29 , 5163 , 54 , 30
-"Misc" , 1696406330 , Jannik Möll , 30 , 5252 , 55 , 30
-"Some database criteria and db descriptions" , 1696434602 , Jannik Möll , 32 , 5753 , 60 , 35
-"TSBS enahcments, performance, compatibility & contributions" , 1696502358 , Jannik Möll , 33 , 6174 , 61 , 36
-"MongoDB improvement" , 1696577570 , Jannik Möll , 33 , 6225 , 62 , 37
-"TSBS Usage & Architecture" , 1696597649 , Jannik Möll , 34 , 6677 , 62 , 37
-"Minor adjustments to TSBS" , 1696600018 , Jannik Möll , 34 , 6737 , 62 , 37
-"TSBS: Data and Query generation" , 1696857398 , Jannik Möll , 36 , 7245 , 63 , 38
-"Query generation and query appendix" , 1696944495 , Jannik Möll , 39 , 7881 , 63 , 38
-"Minor edits: Mixed WL and Scenario" , 1697039417 , Jannik Möll , 39 , 7603 , 64 , 39
-"Work on: Building Energy Management & Scenario" , 1697209223 , Jannik Möll , 40 , 7947 , 65 , 41
-"Start: Experiment setup" , 1697382556 , Jannik Möll , 42 , 8417 , 66 , 42
-"Scenario & Minor: DBs" , 1697465445 , Jannik Möll , 42 , 8698 , 66 , 42
-"Some: OpenTSDB; Some: TSDBBench" , 1697555280 , Jannik Möll , 41 , 8947 , 69 , 45
-"Small edits" , 1697633678 , Jannik Möll , 42 , 9038 , 70 , 45
-"Changed file naming scheme" , 1697637859 , Jannik Möll , 42 , 9038 , 70 , 45
-"Apache Druid: Start" , 1697650792 , Jannik Möll , 43 , 9098 , 72 , 47
-"Adjustments after meeting (Structure, SQL acro, Server spec)" , 1697709809 , Jannik Möll , 44 , 9196 , 72 , 47
-"Experiment Setup; Apache Druid" , 1697729084 , Jannik Möll , 44 , 9345 , 75 , 49
-"Database descriptions" , 1697806815 , Jannik Möll , 44 , 9575 , 78 , 51
-"Update 03_databaseCandidates.tex" , 1697830422 , Jannik Möll , 45 , 9697 , 78 , 51
-"Database descriptions" , 1698082148 , Jannik Möll , 45 , 9897 , 81 , 55
-"DBs & Existing Benchmarks" , 1698167106 , Jannik Möll , 46 , 10025 , 82 , 56
-"Bisschen Benchmarks, viele Quellen" , 1698335673 , Jannik Möll , 48 , 10282 , 93 , 71
-"Database preselection" , 1698424202 , Jannik Möll , 49 , 10499 , 97 , 75
-"Kleinigkeiten" , 1698506450 , Jannik Möll , 50 , 10600 , 98 , 77
-"TSDB description und 'database' Rechtfertigung" , 1698673319 , Jannik Möll , 52 , 11097 , 104 , 82
-"Korrektur: Bis 2.1" , 1698684221 , Jannik Möll , 52 , 11257 , 106 , 85
-"Kleine Korrekturen" , 1698771926 , Jannik Möll , 52 , 11241 , 106 , 85
-"QuestDB insertion experiments" , 1698933671 , Jannik Möll , 53 , 11804 , 108 , 87
-"Kleine Korrekturen" , 1698959578 , Jannik Möll , 53 , 11853 , 108 , 87
-"Renaming 05_TSBS" , 1699014516 , Jannik Möll , 53 , 11938 , 108 , 87
-"MongoDB in TSBS & Korrektur" , 1699022197 , Jannik Möll , 54 , 12271 , 108 , 87
-"Korrekturen, MongoDB Anpassungen, Benschmark-Auswahl" , 1699131852 , Jannik Möll , 54 , 12448 , 110 , 89
-"Korrekturen" , 1699218021 , Jannik Möll , 54 , 12421 , 110 , 89
-"Korrekturen" , 1699263315 , Jannik Möll , 54 , 12590 , 110 , 89
-"Create Masterarbeit_Jannik_20231106.pdf" , 1699284391 , Jannik Möll , 54 , 12590 , 110 , 89
-"Reference formatting; MongoDB Queries; Minor: Insertion experiment" , 1699376652 , Jannik Möll , 55 , 12672 , 110 , 89
-"Insert experimente & misc" , 1699548922 , Jannik Möll , 58 , 13335 , 110 , 89
-"Experimente und Misc" , 1699650026 , Jannik Möll , 59 , 13730 , 110 , 89
-"Hardware metrics description" , 1699729230 , Jannik Möll , 59 , 14040 , 111 , 90
-"Indices & Misc" , 1699903359 , Jannik Möll , 60 , 14555 , 111 , 90
-"Etwas zu Query experiments" , 1699993009 , Jannik Möll , 61 , 14858 , 111 , 90
-"Query W_q graphen und Misc" , 1700071022 , Jannik Möll , 63 , 14982 , 111 , 90
-"W_q experiments and associated CPU usage" , 1700152739 , Jannik Möll , 64 , 15661 , 111 , 90
-"Fixed build issue" , 1700244037 , Jannik Möll , 65 , 15870 , 111 , 90
-"Minor additon: Starting disk space" , 1700302861 , Jannik Möll , 65 , 16061 , 111 , 90
-"[Graph] Influx disk space progression" , 1700320038 , Jannik Möll , 65 , 16061 , 111 , 90
-"Misc & Disk Space relationship" , 1700417466 , Jannik Möll , 66 , 16190 , 112 , 91
-"Work on Disk space" , 1700502528 , Jannik Möll , 68 , 17036 , 112 , 91
-"Slight work on disk space" , 1700601780 , Jannik Möll , 69 , 17151 , 112 , 91
-"Minor Work on Disk Space and prepearing for quICSWAL" , 1700693414 , Jannik Möll , 70 , 17412 , 112 , 91
-"Added QuestDB I_WAL data and regenerated all graphs" , 1700749605 , Jannik Möll , 70 , 17412 , 112 , 91
-"Misc & Disk Space" , 1700770771 , Jannik Möll , 70 , 17798 , 112 , 91
-"Adjustemnts to rectify QuestDB & Work on Query experiments" , 1700843666 , Jannik Möll , 73 , 18197 , 112 , 91
-"Mixed Workload planning" , 1700868607 , Jannik Möll , 74 , 18338 , 112 , 91
-"Work on Mixed Workload introduction" , 1700999494 , Jannik Möll , 74 , 18449 , 112 , 91
-"Work on Mixed Workload" , 1701214048 , Jannik Möll , 75 , 18994 , 112 , 91
-"Fixed citation links" , 1701293870 , Jannik Möll , 77 , 19411 , 112 , 91
-"[Eingearbeitet] Davids Kommentare" , 1701363395 , Jannik Möll , 78 , 19587 , 118 , 96
+"Fixing used sources grep" , 1687530126 , Jannik Moell , 8 , 258 , 0 , 0 , 0
+"Merge branch 'main' of https://github.com/MoellJ/Masterarbeit" , 1687537767 , Jannik Moell , 8 , 258 , 0 , 0 , 0
+"Added some sections" , 1687942939 , Jannik Moell , 12 , 244 , 0 , 0 , 0
+"Fixed acronyms, hyperlinks and sources" , 1687955732 , Jannik Moell , 13 , 271 , 4 , 1 , 0
+"Transferred sources from notes document" , 1687959456 , Jannik Moell , 13 , 271 , 23 , 1 , 0
+"Added more sources to literatur.bib" , 1687961612 , Jannik Moell , 13 , 271 , 28 , 1 , 0
+"Using SSH key for pushing" , 1688114678 , Jannik Moell , 13 , 271 , 28 , 1 , 0
+"Added advisors and link to document statistics" , 1688115401 , Jannik Moell , 13 , 271 , 28 , 1 , 0
+"Some boilerplate, requirements and related works (rudimentary)" , 1689087739 , Jannik Moell , 15 , 955 , 30 , 4 , 0
+"Started: CandidateDBs: InfluxDB" , 1689176553 , Jannik Moell , 16 , 1295 , 34 , 8 , 0
+"CandidateDBs: TimescaleDB" , 1689326568 , Jannik Moell , 17 , 1471 , 39 , 13 , 0
+"Restructuring" , 1689337381 , Jannik Moell , 18 , 1471 , 39 , 13 , 0
+"Some ClickHouse and TSBS" , 1689688933 , Jannik Moell , 19 , 1708 , 44 , 18 , 0
+"Mini: TS-Benchmark & IoTAbench" , 1689782290 , Jannik Moell , 19 , 1870 , 44 , 19 , 0
+"Added notes folder" , 1690711612 , Jannik Moell , 19 , 1870 , 44 , 19 , 0
+"Looking for realistic queries" , 1690725621 , Jannik Möll , 19 , 1870 , 44 , 19 , 0
+"Minor text for TSBS" , 1691077620 , Jannik Moell , 20 , 2042 , 45 , 19 , 0
+"Some QuestDB introduction and Benchmark selection" , 1691154869 , Jannik Möll , 23 , 2510 , 47 , 21 , 0
+"IoT-Benckmark; Test Scenario and minor edits" , 1691249163 , Jannik Möll , 25 , 3180 , 50 , 26 , 0
+"Restructuring; Requirement analysis; Existing benchmarks" , 1691508172 , Jannik Möll , 25 , 3529 , 50 , 26 , 0
+"Update database_sources.md" , 1691525543 , Jannik Möll , 25 , 3529 , 50 , 26 , 0
+"Meeting 09.08." , 1691656299 , Jannik Moell , 25 , 3529 , 50 , 26 , 0
+"Finished: Choosing a Benchmark" , 1691760207 , Jannik Möll , 25 , 3637 , 52 , 28 , 0
+"Benchmark Selection?" , 1692351719 , Jannik Möll , 25 , 3717 , 52 , 28 , 0
+"Start: Enhancing TSBS" , 1693215994 , Jannik Möll , 26 , 3844 , 52 , 28 , 0
+"Enhancing TSBS: Mixed workload" , 1693229502 , Jannik Moell , 27 , 4178 , 52 , 29 , 0
+"Start: SmartBench" , 1693292308 , Jannik Moell , 27 , 4224 , 53 , 30 , 0
+"Ehancing TSBS: Mixed Workload" , 1693310389 , Jannik Möll , 28 , 4715 , 53 , 30 , 0
+"Rough: SmartBench" , 1693411061 , Jannik Möll , 28 , 4814 , 53 , 30 , 0
+"Mixed Workload: Safety periods" , 1693499972 , Jannik Möll , 29 , 5124 , 53 , 30 , 0
+"Some notes" , 1693560342 , Jannik Möll , 29 , 5124 , 53 , 30 , 0
+"Updated notes" , 1694069820 , Jannik Möll , 29 , 5124 , 53 , 30 , 0
+"Some notes" , 1695111479 , Jannik Möll , 29 , 5124 , 53 , 30 , 0
+"Added a source and minor tex change" , 1695213995 , Jannik Möll , 29 , 5145 , 54 , 30 , 0
+"Added notes" , 1695219010 , Jannik Möll , 29 , 5163 , 54 , 30 , 0
+"Misc" , 1696406330 , Jannik Möll , 30 , 5252 , 55 , 30 , 0
+"Some database criteria and db descriptions" , 1696434602 , Jannik Möll , 32 , 5753 , 60 , 35 , 0
+"TSBS enahcments, performance, compatibility & contributions" , 1696502358 , Jannik Möll , 33 , 6174 , 61 , 36 , 0
+"MongoDB improvement" , 1696577570 , Jannik Möll , 33 , 6225 , 62 , 37 , 0
+"TSBS Usage & Architecture" , 1696597649 , Jannik Möll , 34 , 6677 , 62 , 37 , 0
+"Minor adjustments to TSBS" , 1696600018 , Jannik Möll , 34 , 6737 , 62 , 37 , 0
+"TSBS: Data and Query generation" , 1696857398 , Jannik Möll , 36 , 7245 , 63 , 38 , 0
+"Query generation and query appendix" , 1696944495 , Jannik Möll , 39 , 7881 , 63 , 38 , 0
+"Minor edits: Mixed WL and Scenario" , 1697039417 , Jannik Möll , 39 , 7603 , 64 , 39 , 0
+"Work on: Building Energy Management & Scenario" , 1697209223 , Jannik Möll , 40 , 7947 , 65 , 41 , 0
+"Start: Experiment setup" , 1697382556 , Jannik Möll , 42 , 8417 , 66 , 42 , 0
+"Scenario & Minor: DBs" , 1697465445 , Jannik Möll , 42 , 8698 , 66 , 42 , 0
+"Some: OpenTSDB; Some: TSDBBench" , 1697555280 , Jannik Möll , 41 , 8947 , 69 , 45 , 0
+"Small edits" , 1697633678 , Jannik Möll , 42 , 9038 , 70 , 45 , 0
+"Changed file naming scheme" , 1697637859 , Jannik Möll , 42 , 9038 , 70 , 45 , 0
+"Apache Druid: Start" , 1697650792 , Jannik Möll , 43 , 9098 , 72 , 47 , 0
+"Adjustments after meeting (Structure, SQL acro, Server spec)" , 1697709809 , Jannik Möll , 44 , 9196 , 72 , 47 , 0
+"Experiment Setup; Apache Druid" , 1697729084 , Jannik Möll , 44 , 9345 , 75 , 49 , 0
+"Database descriptions" , 1697806815 , Jannik Möll , 44 , 9575 , 78 , 51 , 0
+"Update 03_databaseCandidates.tex" , 1697830422 , Jannik Möll , 45 , 9697 , 78 , 51 , 0
+"Database descriptions" , 1698082148 , Jannik Möll , 45 , 9897 , 81 , 55 , 0
+"DBs & Existing Benchmarks" , 1698167106 , Jannik Möll , 46 , 10025 , 82 , 56 , 0
+"Bisschen Benchmarks, viele Quellen" , 1698335673 , Jannik Möll , 48 , 10282 , 93 , 71 , 0
+"Database preselection" , 1698424202 , Jannik Möll , 49 , 10499 , 97 , 75 , 0
+"Kleinigkeiten" , 1698506450 , Jannik Möll , 50 , 10600 , 98 , 77 , 0
+"TSDB description und 'database' Rechtfertigung" , 1698673319 , Jannik Möll , 52 , 11097 , 104 , 82 , 0
+"Korrektur: Bis 2.1" , 1698684221 , Jannik Möll , 52 , 11257 , 106 , 85 , 0
+"Kleine Korrekturen" , 1698771926 , Jannik Möll , 52 , 11241 , 106 , 85 , 0
+"QuestDB insertion experiments" , 1698933671 , Jannik Möll , 53 , 11804 , 108 , 87 , 0
+"Kleine Korrekturen" , 1698959578 , Jannik Möll , 53 , 11853 , 108 , 87 , 0
+"Renaming 05_TSBS" , 1699014516 , Jannik Möll , 53 , 11938 , 108 , 87 , 0
+"MongoDB in TSBS & Korrektur" , 1699022197 , Jannik Möll , 54 , 12271 , 108 , 87 , 0
+"Korrekturen, MongoDB Anpassungen, Benschmark-Auswahl" , 1699131852 , Jannik Möll , 54 , 12448 , 110 , 89 , 0
+"Korrekturen" , 1699218021 , Jannik Möll , 54 , 12421 , 110 , 89 , 0
+"Korrekturen" , 1699263315 , Jannik Möll , 54 , 12590 , 110 , 89 , 0
+"Create Masterarbeit_Jannik_20231106.pdf" , 1699284391 , Jannik Möll , 54 , 12590 , 110 , 89 , 0
+"Reference formatting; MongoDB Queries; Minor: Insertion experiment" , 1699376652 , Jannik Möll , 55 , 12672 , 110 , 89 , 0
+"Insert experimente & misc" , 1699548922 , Jannik Möll , 58 , 13335 , 110 , 89 , 0
+"Experimente und Misc" , 1699650026 , Jannik Möll , 59 , 13730 , 110 , 89 , 0
+"Hardware metrics description" , 1699729230 , Jannik Möll , 59 , 14040 , 111 , 90 , 0
+"Indices & Misc" , 1699903359 , Jannik Möll , 60 , 14555 , 111 , 90 , 0
+"Etwas zu Query experiments" , 1699993009 , Jannik Möll , 61 , 14858 , 111 , 90 , 0
+"Query W_q graphen und Misc" , 1700071022 , Jannik Möll , 63 , 14982 , 111 , 90 , 0
+"W_q experiments and associated CPU usage" , 1700152739 , Jannik Möll , 64 , 15661 , 111 , 90 , 0
+"Fixed build issue" , 1700244037 , Jannik Möll , 65 , 15870 , 111 , 90 , 0
+"Minor additon: Starting disk space" , 1700302861 , Jannik Möll , 65 , 16061 , 111 , 90 , 0
+"[Graph] Influx disk space progression" , 1700320038 , Jannik Möll , 65 , 16061 , 111 , 90 , 0
+"Misc & Disk Space relationship" , 1700417466 , Jannik Möll , 66 , 16190 , 112 , 91 , 0
+"Work on Disk space" , 1700502528 , Jannik Möll , 68 , 17036 , 112 , 91 , 0
+"Slight work on disk space" , 1700601780 , Jannik Möll , 69 , 17151 , 112 , 91 , 0
+"Minor Work on Disk Space and prepearing for quICSWAL" , 1700693414 , Jannik Möll , 70 , 17412 , 112 , 91 , 0
+"Added QuestDB I_WAL data and regenerated all graphs" , 1700749605 , Jannik Möll , 70 , 17412 , 112 , 91 , 0
+"Misc & Disk Space" , 1700770771 , Jannik Möll , 70 , 17798 , 112 , 91 , 0
+"Adjustemnts to rectify QuestDB & Work on Query experiments" , 1700843666 , Jannik Möll , 73 , 18197 , 112 , 91 , 0
+"Mixed Workload planning" , 1700868607 , Jannik Möll , 74 , 18338 , 112 , 91 , 0
+"Work on Mixed Workload introduction" , 1700999494 , Jannik Möll , 74 , 18449 , 112 , 91 , 0
+"Work on Mixed Workload" , 1701214048 , Jannik Möll , 75 , 18994 , 112 , 91 , 0
+"Fixed citation links" , 1701293870 , Jannik Möll , 77 , 19411 , 112 , 91 , 0
+"[Eingearbeitet] Davids Kommentare" , 1701363395 , Jannik Möll , 78 , 19587 , 118 , 96 , 55

@@ -33,6 +33,15 @@ var lineChartData = {
 		fill: false,
 		data: [],
 		yAxisID: 'y-axis-2'
+       },
+       {
+		label: 'Content pages',
+		borderColor: 'rgb(209, 2, 232)',
+		backgroundColor: 'rgb(209, 2, 232)',
+		lineTension: 0,
+		fill: false,
+		data: [],
+		yAxisID: 'y-axis-2'
        }]
 };
 
@@ -48,18 +57,19 @@ client.onreadystatechange = function () {
         var words = [];
         var totalSources = [];
         var usedSources = [];
+        var contentPages = [];
         for (var i = 0; i < rows.length; i++) {
             var points = rows[i].split(" , ");
-            if (points.length != 7) {
-                //console.log("Warning line " + i + " only has " + points.length + " points");
-            } else {
+            if (points.length == 8) {
 				if(pages.length == 0 || pages[pages.length-1] != points[3] || words[words.length-1] != points[4]
-				|| totalSources[totalSources.length-1] != points[5] || usedSources[usedSources.length-1] != points[6]){
+				|| totalSources[totalSources.length-1] != points[5] || usedSources[usedSources.length-1] != points[6]
+                || contentPages[contentPages.length-1] != points[7]){
 					lables.push(new Date(points[1] * 1000));
 					pages.push(points[3]);
 					words.push(points[4]);
 					totalSources.push(points[5]);
 					usedSources.push(points[6]);
+                    contentPages.push(points[7]);
 				}
             }
         }
@@ -68,6 +78,7 @@ client.onreadystatechange = function () {
         lineChartData.datasets[1].data = totalSources;
         lineChartData.datasets[2].data = usedSources;
         lineChartData.datasets[3].data = pages;
+        lineChartData.datasets[4].data = contentPages;
         displayGraph();
     }
 }
