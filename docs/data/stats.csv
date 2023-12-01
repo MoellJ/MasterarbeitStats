@@ -34,13 +34,13 @@
 "Added a source and minor tex change" , 1695213995 , Jannik Möll , 29 , 5145 , 54 , 30 , 0
 "Added notes" , 1695219010 , Jannik Möll , 29 , 5163 , 54 , 30 , 0
 "Misc" , 1696406330 , Jannik Möll , 30 , 5252 , 55 , 30 , 0
-"Some database criteria and db descriptions" , 1696434602 , Jannik Möll , 32 , 5753 , 60 , 35 , 0
+"Some database criteria and db descriptions" , 1696434602 , Jannik Möll , 32 , 5753 , 60 , 35 , 20
 "TSBS enahcments, performance, compatibility & contributions" , 1696502358 , Jannik Möll , 33 , 6174 , 61 , 36 , 0
 "MongoDB improvement" , 1696577570 , Jannik Möll , 33 , 6225 , 62 , 37 , 0
 "TSBS Usage & Architecture" , 1696597649 , Jannik Möll , 34 , 6677 , 62 , 37 , 0
 "Minor adjustments to TSBS" , 1696600018 , Jannik Möll , 34 , 6737 , 62 , 37 , 0
 "TSBS: Data and Query generation" , 1696857398 , Jannik Möll , 36 , 7245 , 63 , 38 , 0
-"Query generation and query appendix" , 1696944495 , Jannik Möll , 39 , 7881 , 63 , 38 , 0
+"Query generation and query appendix" , 1696944495 , Jannik Möll , 39 , 7881 , 63 , 38 , 24
 "Minor edits: Mixed WL and Scenario" , 1697039417 , Jannik Möll , 39 , 7603 , 64 , 39 , 0
 "Work on: Building Energy Management & Scenario" , 1697209223 , Jannik Möll , 40 , 7947 , 65 , 41 , 0
 "Start: Experiment setup" , 1697382556 , Jannik Möll , 42 , 8417 , 66 , 42 , 0
@@ -52,7 +52,7 @@
 "Adjustments after meeting (Structure, SQL acro, Server spec)" , 1697709809 , Jannik Möll , 44 , 9196 , 72 , 47 , 0
 "Experiment Setup; Apache Druid" , 1697729084 , Jannik Möll , 44 , 9345 , 75 , 49 , 0
 "Database descriptions" , 1697806815 , Jannik Möll , 44 , 9575 , 78 , 51 , 0
-"Update 03_databaseCandidates.tex" , 1697830422 , Jannik Möll , 45 , 9697 , 78 , 51 , 0
+"Update 03_databaseCandidates.tex" , 1697830422 , Jannik Möll , 45 , 9697 , 78 , 51 , 29
 "Database descriptions" , 1698082148 , Jannik Möll , 45 , 9897 , 81 , 55 , 0
 "DBs & Existing Benchmarks" , 1698167106 , Jannik Möll , 46 , 10025 , 82 , 56 , 0
 "Bisschen Benchmarks, viele Quellen" , 1698335673 , Jannik Möll , 48 , 10282 , 93 , 71 , 0
@@ -60,7 +60,7 @@
 "Kleinigkeiten" , 1698506450 , Jannik Möll , 50 , 10600 , 98 , 77 , 0
 "TSDB description und 'database' Rechtfertigung" , 1698673319 , Jannik Möll , 52 , 11097 , 104 , 82 , 0
 "Korrektur: Bis 2.1" , 1698684221 , Jannik Möll , 52 , 11257 , 106 , 85 , 0
-"Kleine Korrekturen" , 1698771926 , Jannik Möll , 52 , 11241 , 106 , 85 , 0
+"Kleine Korrekturen" , 1698771926 , Jannik Möll , 52 , 11241 , 106 , 85 , 33
 "QuestDB insertion experiments" , 1698933671 , Jannik Möll , 53 , 11804 , 108 , 87 , 0
 "Kleine Korrekturen" , 1698959578 , Jannik Möll , 53 , 11853 , 108 , 87 , 0
 "Renaming 05_TSBS" , 1699014516 , Jannik Möll , 53 , 11938 , 108 , 87 , 0
@@ -71,7 +71,7 @@
 "Create Masterarbeit_Jannik_20231106.pdf" , 1699284391 , Jannik Möll , 54 , 12590 , 110 , 89 , 0
 "Reference formatting; MongoDB Queries; Minor: Insertion experiment" , 1699376652 , Jannik Möll , 55 , 12672 , 110 , 89 , 0
 "Insert experimente & misc" , 1699548922 , Jannik Möll , 58 , 13335 , 110 , 89 , 0
-"Experimente und Misc" , 1699650026 , Jannik Möll , 59 , 13730 , 110 , 89 , 0
+"Experimente und Misc" , 1699650026 , Jannik Möll , 59 , 13730 , 110 , 89 , 39
 "Hardware metrics description" , 1699729230 , Jannik Möll , 59 , 14040 , 111 , 90 , 0
 "Indices & Misc" , 1699903359 , Jannik Möll , 60 , 14555 , 111 , 90 , 0
 "Etwas zu Query experiments" , 1699993009 , Jannik Möll , 61 , 14858 , 111 , 90 , 0
@@ -81,7 +81,7 @@
 "Minor additon: Starting disk space" , 1700302861 , Jannik Möll , 65 , 16061 , 111 , 90 , 0
 "[Graph] Influx disk space progression" , 1700320038 , Jannik Möll , 65 , 16061 , 111 , 90 , 0
 "Misc & Disk Space relationship" , 1700417466 , Jannik Möll , 66 , 16190 , 112 , 91 , 0
-"Work on Disk space" , 1700502528 , Jannik Möll , 68 , 17036 , 112 , 91 , 0
+"Work on Disk space" , 1700502528 , Jannik Möll , 68 , 17036 , 112 , 91 , 48
 "Slight work on disk space" , 1700601780 , Jannik Möll , 69 , 17151 , 112 , 91 , 0
 "Minor Work on Disk Space and prepearing for quICSWAL" , 1700693414 , Jannik Möll , 70 , 17412 , 112 , 91 , 0
 "Added QuestDB I_WAL data and regenerated all graphs" , 1700749605 , Jannik Möll , 70 , 17412 , 112 , 91 , 0
